@@ -1,20 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,2,35&height=280&section=header&text=&fontSize=90" width="100%"/>
   
- <div style="margin-top: -160px; position: relative;">
+  
+  <div style="margin-top: -160px; position: relative;">
     <h1 align="center" style="color: #ffffff; font-size: 50px; font-weight: bold; text-shadow: 0px 0px 10px #00d8ff;">Hi, I'm Anshuman</h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39F0F0&center=true&vCenter=true&width=500&lines=Building+a+YouTube+Clone...;Learning+Rust+%26+Next.js;Full+Stack+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39F0F0&center=true&vCenter=true&width=500&lines=Learning+Rust+%26+Next.js;Full+Stack+Web+Developer" alt="Typing SVG" />
     </a>
   </div>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/heyansh">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,github&theme=dark" />
-  </a>
 </div>
 
 <br/>
@@ -28,7 +21,7 @@
 <h2 align="center">⚡ The Tech Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,vite,nodejs,npm,express,bun,mongodb,mysql,git,github,vscode,vercel,netlify,postman,ubuntu&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,vite,nodejs,npm,express,bun,mongodb,mysql,git,github,vscode,vercel,netlify,postman,ubuntu&perline=11&theme=dark" />
   </a>
 </p>
 
