@@ -12,7 +12,7 @@
 <br/><br/>
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://linkedin.com/in/heyansh">
     <img src="https://skillicons.dev/icons?i=linkedin,gmail,github&theme=dark" />
   </a>
 </div>
