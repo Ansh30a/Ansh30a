@@ -4,7 +4,7 @@
  <div style="margin-top: -160px; position: relative;">
     <h1 align="center" style="color: #ffffff; font-size: 50px; font-weight: bold; text-shadow: 0px 0px 10px #00d8ff;">Hi, I'm Anshuman</h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39F0F0&center=true&vCenter=true&width=500&lines=Building+a+YouTube+Clone...;Mastering+Rust+%26+Next.js;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39F0F0&center=true&vCenter=true&width=500&lines=Building+a+YouTube+Clone...;Learning+Rust+%26+Next.js;Full+Stack+Developer" alt="Typing SVG" />
     </a>
   </div>
 </div>
