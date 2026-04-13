@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,2,35&height=280&section=header&text=&fontSize=90" width="100%"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,2,35&height=280&section=header&text=&fontSize=90" width="100%"/> -->
   
   
   <div style="margin-top: -160px; position: relative;">
@@ -18,16 +18,25 @@
 
 <br/>
 
-<h2 align="center">⚡ The Tech Arsenal</h2>
+<h2 align="center">The Tech Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,ts,html,css,react,nextjs,tailwindcss,vite,nodejs,npm,express,bun,mongodb,mysql,git,github,vscode,vercel,netlify,postman,ubuntu&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,ts,html,css,react,nextjs,tailwindcss,vite,nodejs,npm,express,bun,mongodb,mysql,docker,git,github,vscode,vercel,netlify,postman,ubuntu&perline=11&theme=dark" />
   </a>
+</p>
+
+<h2 align="center">Projects</h2>
+<p align="center">
+  <a href="https://job-application-tracker-steel-rho.vercel.app">Job Application Tracker</a>
+  <br/>
+  <a href="https://datacanvas-web.vercel.app/">Data Canvas</a>
+  <br/>
+  <a href="https://bio-informatics.vercel.app/">BioInformatics Platform</a>
 </p>
 
 <br/>
 
-<h2 align="center">📊 Developer Matrix</h2>
+<h2 align="center">Developer Matrix</h2>
 
 <div align="center">
   <table style="border: none; border-collapse: collapse; background-color: transparent;">
@@ -52,12 +61,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🐍 Coding Frequency</h2>
+<!-- <h2 align="center">Coding Frequency</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh30a&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%"/>
-</div>
+</div> -->
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,2,35&height=100&section=footer" width="100%"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,2,35&height=100&section=footer" width="100%"/> -->
 </div>
