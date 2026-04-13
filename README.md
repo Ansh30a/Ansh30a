@@ -27,11 +27,11 @@
 
 <h2 align="center">Projects</h2>
 <p align="center">
-  <a href="https://job-application-tracker-steel-rho.vercel.app">Job Application Tracker</a>
+  <a href="https://job-application-tracker-steel-rho.vercel.app">Job Application Tracker</a> -- <a href="https://github.com/Ansh30a/job-application-tracker">Repo</a>
   <br/>
-  <a href="https://datacanvas-web.vercel.app/">Data Canvas</a>
+  <a href="https://datacanvas-web.vercel.app/">Data Canvas</a> -- <a href="https://github.com/Ansh30a/datacanvas">Repo</a>
   <br/>
-  <a href="https://bio-informatics.vercel.app/">BioInformatics Platform</a>
+  <a href="https://bio-informatics.vercel.app/">BioInformatics Platform</a> -- <a href="https://github.com/Ansh30a/bioinformatics">Repo</a>
 </p>
 
 <br/>
