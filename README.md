@@ -21,7 +21,7 @@
 <h2 align="center">The Tech Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,ts,html,css,react,nextjs,tailwindcss,vite,nodejs,npm,express,bun,mongodb,mysql,docker,git,github,vscode,vercel,netlify,postman,ubuntu&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,ts,html,css,react,nextjs,tailwindcss,vite,nodejs,npm,express,bun,mongodb,mysql,docker,git,github,vscode,vercel,netlify,postman,ubuntu,arch&perline=11&theme=dark" />
   </a>
 </p>
 
